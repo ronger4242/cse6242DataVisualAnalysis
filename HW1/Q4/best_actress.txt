@@ -1,0 +1,1389 @@
+==Winners and nominees==
+
+{| class="wikitable"
+|+ Table key
+|-
+!scope="row" style="text-align:center;" style="background:#FAEB86; height:20px; width:20px"|{{double dagger|alt=Award winner}}
+| Indicates the winner
+|}
+===1950s===
+
+{| class="wikitable sortable" rowspan=2 style="text-align: left;" border="2" cellpadding="5"
+|-
+!scope="col" style="width:3%; text-align:center;"| Year
+!scope="col" style="width:3%;text-align:center;"| Photos of winners
+!scope="col" style="width:15%;text-align:center;"| Actress
+!scope="col" style="width:15%;text-align:center;"| Role(s)
+!scope="col" style="width:15%;text-align:center;"| Film
+|-
+! scope="row" rowspan=2 style="text-align:center" | 1954 <br /><small>[[1st Filmfare Awards|(1st)]] </small>
+|rowspan=2 style="text-align:center"|{{border|[[File:Meena Kumari in Chandni Chowk (1954).jpg|95px|centre]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Meena|[[Meena Kumari]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Gauri|Gauri}}'''
+| style="background:#FAEB86;" | '''''[[Baiju Bawra (film)|Baiju Bawra]]'''''
+|-
+| colspan =3 style="text-align:center" | '''No Other Nominee'''
+|-
+! scope="row" rowspan=2 style="text-align:center" | 1955<br /><small>[[2nd Filmfare Awards|(2nd)]]</small>
+|rowspan=2 style="text-align:center"|{{border| [[File:Meena Kumari in Chandni Chowk (1954).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Meena|[[Meena Kumari]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Lalita|Lalita}}'''
+| style="background:#FAEB86;" | '''''[[Parineeta (1953 film)|Parineeta]]'''''
+|-
+| colspan=3 style="text-align:center" | '''No Other Nominee'''
+|-
+! scope="row" rowspan=3 style="text-align:center" | 1956<br /><small>[[3rd Filmfare Awards|(3rd)]]</small>
+|rowspan=3 style="text-align:center"|{{border| [[File:Kamini Kaushal in 1950 Hindi film Arzoo.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Kamini|[[Kamini Kaushal]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Biraj|Biraj Chakravarty}}'''
+| style="background:#FAEB86;" | '''''[[Biraj Bahu]]'''''
+|-
+|{{sort|Geeta|[[Geeta Bali]]}}
+|{{sort|Kamala|Kamala}}
+|''[[Vachan]]''
+|-
+|{{sort|Meena|[[Meena Kumari]]}}
+|{{sort|Shobha|Shobha}}
+|''[[Azaad (1955 film)|Azaad]]''
+|-
+! scope="row" rowspan=2 style="text-align:center" | 1957 <br /><small>[[4th Filmfare Awards|(4th)]] </small>
+|rowspan=2 style="text-align:center"|{{border| [[File:Nutan Hindi Movie Actress (14).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Nutan|[[Nutan]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Gauri|Gauri}}'''
+| style="background:#FAEB86;" | '''''[[Seema (1955 film)|Seema]]'''''
+|-
+| colspan =3 style="text-align:center" | '''No Other Nominee'''
+|-
+! scope="row" rowspan=2 style="text-align:center" | 1958 <br /><small>[[5th Filmfare Awards|(5th)]] </small>
+|rowspan=2 style="text-align:center"|{{border| [[File:Nargis - Hindi Movie Actress (7).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Nargis|[[Nargis]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Radha|Radha}}'''
+| style="background:#FAEB86;" | '''''[[Mother India]]'''''
+|-
+| colspan =3 style="text-align:center" | '''No Other Nominee'''
+|-
+! scope="row" rowspan=3 style="text-align:center" | 1959 <br /><small>[[6th Filmfare Awards|(6th)]] </small>
+|rowspan=3 style="text-align:center"|{{border| [[File:Vyjayanthimala in Devdas.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Vyjayanthimala|[[Vyjayanthimala]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Champabai|Champabai / Rajani}}'''
+| style="background:#FAEB86;" | '''''[[Sadhna (1958 film)|Sadhna]]'''''
+|-
+| {{sort|Meena|[[Meena Kumari]]}}
+| {{sort|Leela|Leela}}
+| ''[[Sahara (1958 film)|Sahara]]''
+|-
+| {{sort|Vyjayanthimala|[[Vyjayanthimala]]}}
+| {{sort|Madhumati/Madhavi/Radha|Madhumati}}
+| ''[[Madhumati]]''
+|}
+
+===1960s===
+
+{| class="wikitable sortable" rowspan=2 style="text-align: left;" border="2" cellpadding="5"
+|-
+!scope="col" style="width:3%; text-align:center;"| Year
+!scope="col" style="width:3%;text-align:center;"| Photos of winners
+!scope="col" style="width:15%;text-align:center;"| Actress
+!scope="col" style="width:15%;text-align:center;"| Role(s)
+!scope="col" style="width:15%;text-align:center;"| Film
+|-
+! scope="row" rowspan=3 style="text-align:center" | 1960 <br /><small>[[7th Filmfare Awards|(7th)]] </small>
+|rowspan=3 style="text-align:center"|{{border| [[File:Nutan Hindi Movie Actress (14).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Nutan|[[Nutan]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Sujata|Sujata}}'''
+| style="background:#FAEB86;" | '''''[[Sujata (1959 film)|Sujata]]'''''
+|-
+|{{sort|Mala|[[Mala Sinha]]}}
+|{{sort|Meena|Meena Khosla}}
+|''[[Dhool Ka Phool]]''
+|-
+|{{sort|Meena|[[Meena Kumari]]}} 
+|{{sort|Ratna|Ratna}} 
+|''[[Chirag Kahan Roshni Kahan]]'' 
+|-
+! scope="row" rowspan=3 style="text-align:center" | 1961 <br /><small>[[8th Filmfare Awards|(8th)]] </small>
+|rowspan=3 style="text-align:center"|{{border| [[File:Bina Rai in Aurat.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Bina|[[Bina Rai]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Parvati|Parvati / Jamuna}}'''
+| style="background:#FAEB86;" | '''''[[Ghunghat (1960 film)|Ghunghat]]'''''
+|-
+| {{sort|Madhubala|[[Madhubala]]}}
+| {{sort|Anarkali|[[Anarkali]]}}
+| ''[[Mughal E Azam]]''
+|-
+| {{sort|Nutan|[[Nutan]]}}
+| {{sort|Shanti|Shanti}}
+| ''[[Chhalia]]''
+|-
+! scope="row" rowspan=3 style="text-align:center" | 1962 <br /><small>[[9th Filmfare Awards|(9th)]] </small>
+|rowspan=3 style="text-align:center"|{{border| [[File:Vyjayanthimala in Devdas.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Vyjayanthimala|[[Vyjayanthimala]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Dhanno|Dhanno}}'''
+| style="background:#FAEB86;" | '''''[[Gunga Jumna]]'''''
+|-
+|{{sort|Padmini|[[Padmini (actress)|Padmini]]}}
+|{{sort|Kammo|Kammo}}
+|''[[Jis Desh Mein Ganga Behti Hai]]''
+|-
+|{{sort|Saira|[[Saira Banu]]}} 
+|{{sort|Rajkumari|Rajkumari "Raj"}} 
+|''[[Junglee (1961 film)|Junglee]]'' 
+|-
+! scope="row" rowspan=3 style="text-align:center" | 1963 <br /><small>[[10th Filmfare Awards|(10th)]] </small>
+
+|rowspan=3 style="text-align:center"|{{border| [[File:Meena Kumari in Chandni Chowk (1954).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Meena|[[Meena Kumari]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Bahu|Chhoti Bahu}}'''
+| style="background:#FAEB86;" | '''''[[Sahib Bibi Aur Ghulam]]'''''
+|-
+| rowspan=2|{{sort|Meena|[[Meena Kumari]]}}
+| {{sort|Aarti|Aarti Gupta}}
+| ''[[Aarti (film)|Aarti]]''
+|-
+| {{sort|Gayatri|Gayatri Devi}}
+| ''[[Main Chup Rahungi]]''
+|-
+! scope="row" rowspan=3 style="text-align:center" | 1964 <br /><small>[[11th Filmfare Awards|(11th)]] </small>
+|rowspan=3 style="text-align:center"|{{border| [[File:Nutan Hindi Movie Actress (14).jpg|95px]]|width=2px|align="center"|style= solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Nutan|[[Nutan]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Kalyani|Kalyani}}'''
+| style="background:#FAEB86;" | '''''[[Bandini (1963 film)|Bandini]]'''''
+|-
+|{{sort|Mala|[[Mala Sinha]]}}
+|{{sort|Padma|Padma}}
+|[[Bahurani (1963 film)|''Bahurani'']]
+|-
+|{{sort|Meena|[[Meena Kumari]]}} 
+|{{sort|Sita|Sita}} 
+|''[[Dil Ek Mandir]]'' 
+|-
+! scope="row" rowspan=3 style="text-align:center" | 1965 <br /><small>[[12th Filmfare Awards|(12th)]] </small>
+|rowspan=3 style="text-align:center"|{{border| [[File:Vyjayanthimala in Devdas.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Vyjayanthimala|[[Vyjayanthimala]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Khanna|Radha Khanna}}'''
+| style="background:#FAEB86;" | '''''[[Sangam (1964 Hindi film)|Sangam]]'''''
+|-
+| {{sort|Mala|[[Mala Sinha]]}}
+| {{sort|Jahanara|[[Jahanara Begum Sahib]]}}
+| ''[[Jahan Ara (film)|Jahan Ara]]''
+|-
+| {{sort|Sadhna|[[Sadhana Shivdasani|Sadhna]]}}
+| {{sort|Sandhya|Sandhya}}
+| ''[[Woh Kaun Thi?]]''
+|-
+! scope="row" rowspan=3 style="text-align:center" | 1966 <br /><small>[[13th Filmfare Awards|(13th)]] </small>
+|rowspan=3 style="text-align:center"|{{border| [[File:Meena Kumari in Chandni Chowk (1954).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Meena|[[Meena Kumari]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Madhavi|Madhavi}}'''
+| style="background:#FAEB86;" | '''''[[Kaajal]]'''''
+|-
+| {{sort|Mala|[[Mala Sinha]]}}
+| {{sort|Phulwa|Phulwa}}
+| ''[[Himalay Ki God Mein]]''
+|-
+| {{sort|Sadhana|[[Sadhana Shivdasani|Sadhana]]}}
+| {{sort|Mittal|Meena Mittal}}
+| ''[[Waqt (1965 film)|Waqt]]''
+|-
+! scope="row" rowspan=3 style="text-align:center" | 1967 <br /><small>[[14th Filmfare Awards|(14th)]] </small>
+|rowspan=3 style="text-align:center"|{{border| [[File:Waheeda ji in Pyaasa.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Waheeda|[[Waheeda Rehman]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Rosie|Rosie Marco}}'''
+| style="background:#FAEB86;" | '''''[[Guide (film)|Guide]]'''''
+|-
+| {{sort|Meena|[[Meena Kumari]]}}
+| {{sort|Shanti|Shanti}}
+| ''[[Phool Aur Patthar]]''
+|-
+| {{sort|Sen|[[Suchitra Sen]]}}
+| {{sort|Devyani|Devyani (Pannabai) / Suparna}}
+| ''[[Mamta (1966 film)|Mamta]]''
+|-
+! scope="row" rowspan=3 style="text-align:center" | 1968 <br /><small>[[15th Filmfare Awards|(15th)]] </small>
+|rowspan=3 style="text-align:center"|{{border| [[File:Nutan Hindi Movie Actress (14).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Nutan|[[Nutan]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Rai|Radha R. Rai}}'''
+| style="background:#FAEB86;" | '''''[[Milan (1967 film)|Milan]]'''''
+|-
+|{{sort|Saira|[[Saira Banu]]}} 
+|{{sort|Poonam|Poonam}}
+|''[[Shagird]]''
+|-
+|{{sort|Waheeda|[[Waheeda Rehman]]}}
+|{{sort|Anjana|Anjana}}
+|''[[Ram Aur Shyam]]''
+|-
+! scope="row" rowspan=3 style="text-align:center" | 1969 <br /><small>[[16th Filmfare Awards|(16th)]] </small>
+|rowspan=3 style="text-align:center"|{{border| [[File:Waheeda ji in Pyaasa.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Waheeda|[[Waheeda Rehman]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Neel|Rajkumari Neel Kamal / Sita Raichand}}'''
+| style="background:#FAEB86;" | '''''[[Neel Kamal (1968 film)|Neel Kamal]]'''''
+|-
+| {{sort|Nargis|[[Nargis]]}}
+| {{sort|Varuna|Mrs. Varuna Verma / Peggy}}
+| ''[[Raat Aur Din]]''
+|-
+| {{sort|Saira|[[Saira Banu]]}}
+| {{sort|Kamini|Kamini Gupta}}
+| ''[[Diwana (1968 film)|Diwana]]''
+|}
+
+===1970s===
+
+{| class="wikitable sortable" rowspan=2 style="text-align: left;" border="2" cellpadding="5"
+|-
+!scope="col" style="width:3%; text-align:center;"| Year
+!scope="col" style="width:3%;text-align:center;"| Photos of winners
+!scope="col" style="width:15%;text-align:center;"| Actress
+!scope="col" style="width:15%;text-align:center;"| Role(s)
+!scope="col" style="width:15%;text-align:center;"| Film
+|-
+! scope="row" rowspan=3 style="text-align:center" | 1970 <br /><small>[[17th Filmfare Awards|(17th)]] </small>
+|rowspan=3 style="text-align:center"|{{border| [[File:Sharmila_Tagore_3.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Sharmila|[[Sharmila Tagore]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Vandana|Vandana Tripathi}}'''
+| style="background:#FAEB86;" | '''''[[Aradhana (1969 film)|Aradhana]]'''''
+|-
+| {{sort|Asha|[[Asha Parekh]]}}
+| {{sort|Asha|Asha Chibber}}
+| ''[[Chirag]]''
+|-
+| {{sort|Nanda|[[Nanda (actress)|Nanda]]}}
+| {{sort|Rekha|Rekha}}
+| ''[[Ittefaq (1969 film)|Ittefaq]]''
+|-
+! scope="row" rowspan=3 style="text-align:center" | 1971 <br /><small>[[18th Filmfare Awards|(18th)]] </small>
+|rowspan=3 style="text-align:center"|{{border| [[File:Mumtaz_(actress).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Mumtaz|[[Mumtaz (actress)|Mumtaz]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Chand|Chand}}'''
+| style="background:#FAEB86;" | '''''[[Khilona (1970 film)|Khilona]]'''''
+|-
+|{{sort|Sharmila|[[Sharmila Tagore]]}} 
+|{{sort|Neela|Mrs. Neela Shekhar Kapoor}} 
+|''[[Safar (1970 film)|Safar]]'' 
+|-
+|{{sort|Waheeda|[[Waheeda Rehman]]}}
+|{{sort|Radha|Radha}}
+|''[[Khamoshi (1970 film)|Khamoshi]]''
+|-
+! scope="row" rowspan=3 style="text-align:center" | 1972 <br /><small>[[19th Filmfare Awards|(19th)]] </small>
+|rowspan=3 style="text-align:center"|{{border| [[File:Asha Parekh on Raveena's NDTV chat show (1) (cropped).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Asha|[[Asha Parekh]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Madhu|Madhavi (Madhu)}}'''
+| style="background:#FAEB86;" | '''''[[Kati Patang]]'''''
+|-
+| rowspan=2|{{sort|Jaya|[[Jaya Bachchan]]}}
+| {{sort|Kusum|Kusum (Guddi)}}
+| ''[[Guddi (1971 film)|Guddi]]''
+|-
+| {{sort|Meenu|Meenu}}
+| ''[[Uphaar]]''
+|-
+! scope="row" rowspan=3 style="text-align:center" | 1973 <br /><small>[[20th Filmfare Awards|(20th)]] </small>
+|rowspan=3 style="text-align:center"|{{border| [[File:Hema_malini_bhungama1.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Hema|[[Hema Malini]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Seeta|Seeta / Geeta}}'''
+| style="background:#FAEB86;" | '''''[[Seeta Aur Geeta]]'''''
+|-
+| {{sort|Meena|[[Meena Kumari]]}} {{small|(posthumous)}}
+| {{sort|Sahibjaan|Nargis / Sahibjaan}}
+| ''[[Pakeezah]]''
+|-
+| {{sort|Rakhee|[[Raakhee]]}}
+| {{sort|Parvati|Parvati}}
+| ''[[Aankhon Aankhon Mein]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 1974 <br /><small>[[21st Filmfare Awards|(21st)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:DimpleKapadia JayaBachchan montage.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Dimple|[[Dimple Kapadia]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Bobby|Bobby J. Braganza}}'''
+| style="background:#FAEB86;" | '''''[[Bobby (1973 film)|Bobby]]'''''
+|-
+| style="background:#FAEB86;" |'''{{sort|Jaya|[[Jaya Bachchan]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Uma|Uma Kumar}}'''
+| style="background:#FAEB86;" | '''''[[Abhimaan (1973 film)|Abhimaan]]'''''
+|-
+|{{sort|Jaya|[[Jaya Bachchan]]}}
+|{{sort|Aarti|Aarti Mathur}}
+| ''[[Koshish]]'' 
+|-
+| {{sort|Moushumi|[[Moushumi Chatterjee]]}}
+| {{sort|Shivani|Shivani}}
+| ''[[Anuraag (1973 film)|Anuraag]]''
+|-
+|{{sort|Nutan|[[Nutan]]}}
+|{{sort|Mahjubhi|Mahjubhi}}
+|[[Saudagar (1973 film)|''Saudagar'']]
+|-
+! scope="row" rowspan=5 style="text-align:center" | 1975 <br /><small>[[22nd Filmfare Awards|(22nd)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Jaya Bachchan still16 (square crop).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Jaya|[[Jaya Bachchan]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Archana|Archana Gupta}}'''
+| style="background:#FAEB86;" | '''''[[Kora Kagaz]]'''''
+|-
+| rowspan=2|{{sort|Hema|[[Hema Malini]]}}
+| {{sort|Sunita|Sunita (Soni)}}
+| ''[[Amir Garib]]''
+|-
+| {{sort|Lata|Lata}}
+| ''[[Prem Nagar (1974 film)|Prem Nagar]]''
+|-
+| {{sort|Saira|[[Saira Banu]]}}
+| {{sort|Lalita|Lalita}}
+| ''[[Sagina]]''
+|-
+| {{sort|Azmi|[[Shabana Azmi]]}}
+| {{sort|Laxmi|Laxmi}}
+| ''[[Ankur (film)|Ankur]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 1976 <br /><small>[[23rd Filmfare Awards|(23rd)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Lakshmi at Naan Suvasikkum Sivaji Book Launch.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Lakshmi|[[Lakshmi (actress)|Lakshmi]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Julie|Julie}}'''
+| style="background:#FAEB86;" | '''''[[Julie (1975 film)|Julie]]'''''
+|-
+| rowspan=2|{{sort|Hema|[[Hema Malini]]}}
+| {{sort|Kusum|Kusum}}
+| ''[[Khushboo (1975 film)|Khushboo]]''
+|-
+| {{sort|Champa|Champa}}
+| ''[[Sanyasi (1975 film)|Sanyasi]]''
+|-
+| {{sort|Jaya|[[Jaya Bachchan]]}}
+| {{sort|Mili|Mili Khanna}}
+| ''[[Mili (1975 film)|Mili]]''
+|-
+| {{sort|Suchitra|[[Suchitra Sen]]}}
+| {{sort|Aarti|Aarti Devi}}
+| ''[[Aandhi]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 1977 <br /><small>[[24th Filmfare Awards|(24th)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Rakhee Gulzar.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Rakhee|[[Raakhee]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Indrani (Indu) Sinha|Indrani (Indu) Sinha}}'''
+| style="background:#FAEB86;" | '''''[[Tapasya (1976 film)|Tapasya]]'''''
+|-
+| {{sort|Hema|[[Hema Malini]]}}
+| {{sort|Ratna|Ratna / Jhumri}}
+| ''[[Mehbooba (1976 film)|Mehbooba]]''
+|-
+| {{sort|Rakhee|[[Raakhee]]}}
+| {{sort|Pooja|Pooja Khanna}}
+| ''[[Kabhie Kabhie (1976 film)|Kabhie Kabhie]]''
+|-
+| {{sort|Roy|[[Reena Roy]]}}
+| {{sort|Nagin|Nagin}}
+| ''[[Nagin (1976 film)|Nagin]]''
+|-
+| {{sort|Sharmila|[[Sharmila Tagore]]}}
+| {{sort|Champa|Chanda Thapa / Kajli Thapa}}
+| ''[[Mausam (1976 film)|Mausam]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 1978 <br /><small>[[25th Filmfare Awards|(25th)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Shabana Azmi SFU honorary degree (cropped).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Azmi|[[Shabana Azmi]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|(Mini)|Saudamini (Mini)}}'''
+| style="background:#FAEB86;" | '''''[[Swami (1977 film)|Swami]]'''''
+|-
+|{{sort|Hema|[[Hema Malini]]}}
+| {{sort|Aarti|Aarti Sanyal}}
+| ''[[Kinara (1977 film)|Kinara]]''
+|-
+| {{sort|Rakhee|[[Raakhee]]}}
+| {{sort|Nisha|Nisha}}
+| ''[[Doosra Aadmi]]''
+|-
+|{{sort|Smita|[[Smita Patil]]}}
+| {{sort|Usha|Usha (Urvashi) Dalvi}}
+| ''[[Bhumika: The Role|Bhumika]]''
+|-
+| {{sort|Zarina|[[Zarina Wahab]]}}
+| {{sort|Chhaya|Chhaya}}
+| ''[[Gharonda]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 1979 <br /><small>[[26th Filmfare Awards|(26th)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Nutan Hindi Movie Actress (14).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Nutan|[[Nutan]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Sanjukta|Sanjukta Chouhan}}'''
+| style="background:#FAEB86;" | '''''[[Main Tulsi Tere Aangan Ki]]'''''
+|-
+| {{sort|Rakhee|[[Raakhee]]}}
+| {{sort|Aarti|Mrs. Aarti Gupta}}
+| ''[[Trishna (1978 film)|Trishna]]''
+|-
+| {{sort|Kaur|[[Ranjeeta Kaur]]}}
+| {{sort|Lily|Lily Fernandes}}
+| ''[[Ankhiyon Ke Jharokhon Se]]''
+|-
+|{{sort|Rekha|[[Rekha]]}}
+| {{sort|Aarti|Aarti Chandra}}
+| ''[[Ghar (film)|Ghar]]''
+|-
+|{{sort|Aman|[[Zeenat Aman]]}}
+| {{sort|Rupa|Rupa}}
+| ''[[Satyam Shivam Sundaram (film)|Satyam Shivam Sundaram]]''
+|}
+
+===1980s===
+
+{| class="wikitable sortable" rowspan=2 style="text-align: left;" border="2" cellpadding="5"
+|-
+!scope="col" style="width:3%; text-align:center;"| Year
+!scope="col" style="width:3%;text-align:center;"| Photos of winners
+!scope="col" style="width:15%;text-align:center;"| Actress
+!scope="col" style="width:15%;text-align:center;"| Role(s)
+!scope="col" style="width:15%;text-align:center;"| Film
+|-
+! scope="row" rowspan=5 style="text-align:center" | 1980 <br /><small>[[27th Filmfare Awards|(27th)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Jaya Bachchan still16 (square crop).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Jaya|[[Jaya Bachchan]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Geeta|Geeta}}'''
+| style="background:#FAEB86;" | '''''[[Nauker (1979 film)|Nauker]]'''''
+|-
+| {{sort|Hema|[[Hema Malini]]}}
+| {{sort|Meera|Meera}}
+| ''[[Meera (1979 film)|Meera]]''
+|-
+| {{sort|Prada|[[Jaya Prada]]}}
+| {{sort|Hema|Hema Pradhan}}
+| ''[[Sargam (1979 film)|Sargam]]''
+|-
+| {{sort|Poonam|[[Poonam Dhillon]]}}
+| {{sort|Noorie|Noorie Nabi}}
+| ''[[Noorie]]''
+|-
+| {{sort|Rakhee|[[Raakhee]]}}
+| {{sort|Rama|Rama Sharma}}
+| ''[[Jurmana (1979 film)|Jurmana]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 1981 <br /><small>[[28th Filmfare Awards|(28th)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Rekha grace Filmfare Glamour & Style Awards 2016 (22) (cropped).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Rekha|[[Rekha]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Manju|Manju Dayal}}'''
+| style="background:#FAEB86;" | '''''[[Khubsoorat]]'''''
+|-
+| {{sort|Reena|[[Reena Roy]]}}
+| {{sort|Asha|Asha}}
+| ''[[Aasha (1980 film)|Asha]]''
+|-
+| {{sort|Rekha|[[Rekha]]}}
+| {{sort|Gauri|Gauri Singh Verma}}
+| ''[[Judaai (1980 film)|Judaai]]''
+|-
+| {{sort|Azmi|[[Shabana Azmi]]}}
+| {{sort|Nima|Nima Chaudhary}}
+| ''[[Thodisi Bewafaii]]''
+|-
+| {{sort|Aman|[[Zeenat Aman]]}}
+| {{sort|Bharti|Bharti Saxena}}
+| ''[[Insaaf Ka Tarazu]]''
+|-
+! scope="row" rowspan=6 style="text-align:center" | 1982 <br /><small>[[29th Filmfare Awards|(29th)]] </small>
+|rowspan=6 style="text-align:center"|{{border| [[File:Smita Patil 2013 stamp of India.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Smita|[[Smita Patil]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Amma|Amma}}'''
+| style="background:#FAEB86;" | '''''[[Chakra (1981 film)|Chakra]]'''''
+|-
+| {{sort|Hema|[[Hema Malini]]}}
+| {{sort|Asha|Asha}}
+| ''[[Naseeb (1981 film)|Naseeb]]''
+|-
+| {{sort|Jaya|[[Jaya Bachchan]]}}
+| {{sort|Shobha|Shobha Malhotra}}
+| ''[[Silsila (1981 film)|Silsila]]''
+|-
+| {{sort|Rakhee|[[Raakhee]]}}
+| {{sort|Sharda|Sharda Balraj Kohli}}
+| ''[[Baseraa]]''
+|-
+| {{sort|Rati|[[Rati Agnihotri]]}}
+| {{sort|Sapna|Sapna}}
+| ''[[Ek Duuje Ke Liye]]''
+|-
+| {{sort|Rekha|[[Rekha]]}}
+| {{sort|Amiran/Umrao Jaan|Amiran / Umrao Jaan}}
+| ''[[Umrao Jaan (1981 film)|Umrao Jaan]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 1983 <br /><small>[[30th Filmfare Awards|(30th)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:PadminiKolhapure.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Padmini|[[Padmini Kolhapure]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Manorama|Manorama "Rama"}}'''
+| style="background:#FAEB86;" | '''''[[Prem Rog]]'''''
+|-
+| {{sort|Rakhee|[[Raakhee]]}}
+| {{sort|Sheetal|Sheetal Kumar}}
+| ''[[Shakti (1982 film)|Shakti]]''
+|-
+| {{sort|Rekha|[[Rekha]]}}
+| {{sort|Sangeeta|Sangeeta Shrivastav}}
+| ''[[Jeevan Dhaara]]''
+|-
+| {{sort|Salma|[[Salma Agha]]}}
+| {{sort|Nilofer|Nilofer Bano / Habiba Shabnam Rehmani}}
+| ''[[Nikaah (film)|Nikaah]]''
+|-
+| {{sort|Smita|[[Smita Patil]]}}
+| {{sort|Najma|Najma}}
+| ''[[Bazaar (1982 film)|Bazaar]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 1984 <br /><small>[[31st Filmfare Awards|(31st)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Shabana Azmi SFU honorary degree (cropped).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Azmi|[[Shabana Azmi]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Pooja|Mrs. Pooja Inder Malhotra}}'''
+| style="background:#FAEB86;" | '''''[[Arth (film)|Arth]]'''''
+|-
+| rowspan=3|{{sort|Azmi|[[Shabana Azmi]]}}
+| {{sort|Radha|Radha Kishen}}
+| ''[[Avtaar]]''
+|-
+| {{sort|Indu|Indu D. Malhotra}}
+| ''[[Masoom (1983 film)|Masoom]]''
+|-
+| {{sort|Bai|Rukmini Bai}}
+| ''[[Mandi (film)|Mandi]]''
+|-
+| {{sort|Sridevi|[[Sridevi]]}}
+| {{sort|Nehalata|Nehalata Sharma}}
+| ''[[Sadma]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 1985 <br /><small>[[32nd Filmfare Awards|(32nd)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Shabana Azmi SFU honorary degree (cropped).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Azmi|[[Shabana Azmi]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Bhavna|Bhavna Saxena}}'''
+| style="background:#FAEB86;" | '''''[[Bhavna (film)|Bhavna]]'''''
+|-
+| {{sort|Prada|[[Jaya Prada]]}}
+| {{sort|Meena|Meena}}
+| ''[[Sharaabi]]''
+|-
+| {{sort|Rohini|[[Rohini Hattangadi]]}}
+| {{sort|Pradhan|Parvati Pradhan}}
+| ''[[Saaransh]]''
+|-
+| {{sort|Azmi|[[Shabana Azmi]]}}
+| {{sort|Kavita|Kavita}}
+| ''[[Sparsh (film)|Sparsh]]''
+|-
+| {{sort|Smita|[[Smita Patil]]}}
+| {{sort|Rajni|Rajni V. Deshmukh}}
+| ''[[Aaj Ki Awaaz]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 1986 <br /><small>[[33rd Filmfare Awards|(33rd)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File: DimpleKapadiaPichvai (cropped).png|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Dimple|[[Dimple Kapadia]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Mona|Mona D'Silva}}'''
+| style="background:#FAEB86;" | '''''[[Saagar (1985 film)|Saagar]]'''''
+|-
+| {{sort|Prada|[[Jaya Prada]]}}
+| {{sort|Yashoda|Yashoda / Asha}}
+| ''[[Sanjog (1985 film)|Sanjog]]''
+|-
+| {{sort|Mandakini|[[Mandakini (actress)|Mandakini]]}}
+| {{sort|Ganga|Ganga Singh}}
+| ''[[Ram Teri Ganga Maili]]''
+|-
+| {{sort|Padmini|[[Padmini Kolhapure]]}}
+| {{sort|Preeti|Preeti B. Pratap}}
+| ''[[Pyaar Jhukta Nahin]]''
+|-
+| {{sort|Rati|[[Rati Agnihotri]]}}
+| {{sort|Sultana|Sultana}}
+| ''[[Tawaif (film)|Tawaif]]''
+|-
+! scope="row" rowspan=1 style="text-align:center" | 1987
+| colspan=4 rowspan= 2 style="background:#FFAA00; text-align:center" | '''NO CEREMONY'''
+|-
+! scope="row" rowspan=1 style="text-align:center" | 1988
+|-
+! scope="row" rowspan=3 style="text-align:center" | 1989 <br /><small>[[34th Filmfare Awards|(34th)]] </small>
+|rowspan=3 style="text-align:center"|{{border| [[File:Rekha grace Filmfare Glamour & Style Awards 2016 (22) (cropped).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Rekha|[[Rekha]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Aarti|Aarti Verma / Jyoti}}'''
+| style="background:#FAEB86;" | '''''[[Khoon Bhari Maang]]'''''
+|-
+| {{sort|Juhi|[[Juhi Chawla]]}}
+| {{sort|Rashmi|Rashmi}}
+| ''[[Qayamat Se Qayamat Tak]]''
+|-
+| {{sort|Madhuri|[[Madhuri Dixit]]}}
+| {{sort|Mohini|Mohini}}
+| ''[[Tezaab]]''
+|}
+
+===1990s===
+
+{| class="wikitable sortable" rowspan=2 style="text-align: left;" border="2" cellpadding="5"
+|-
+!scope="col" style="width:3%; text-align:center;"| Year
+!scope="col" style="width:3%;text-align:center;"| Photos of winners
+!scope="col" style="width:15%;text-align:center;"| Actress
+!scope="col" style="width:15%;text-align:center;"| Role(s)
+!scope="col" style="width:15%;text-align:center;"| Film
+|-
+! scope="row" rowspan=5 style="text-align:center" | 1990 <br /><small>[[35th Filmfare Awards|(35th)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Sridevi.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Sridevi|[[Sridevi]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Anju|Anju Das / Manju Das}}'''
+| style="background:#FAEB86;" | '''''[[ChaalBaaz]]'''''
+|-
+| {{sort|Bhagyashree|[[Bhagyashree]]}}
+| {{sort|Suman|Suman}}
+| ''[[Maine Pyaar Kiya]]''
+|-
+| {{sort|Madhuri|[[Madhuri Dixit]]}}
+| {{sort|Lakshmi|Lakshmi M. Rao}}
+| ''[[Prem Pratigyaa]]''
+|-
+| {{sort|Sridevi|[[Sridevi]]}}
+| {{sort|Chandni|Chandni Mathur}}
+| ''[[Chandni (film)|Chandni]]''
+|-
+| {{sort|Vijayshanti|[[Vijayshanti]]}}
+| {{sort|Lalita|Lalita}}
+| ''[[Eeshwar (1989 film)|Eeshwar]]''
+|-
+! scope="row" rowspan=4 style="text-align:center" | 1991 <br /><small>[[36th Filmfare Awards|(36th)]] </small>
+|rowspan=4 style="text-align:center"|{{border| [[File:Madhuri Dixit promoting Total Dhamaal in 2019 (cropped).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Madhuri|[[Madhuri Dixit]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Madhu|Madhu Mehra}}'''
+| style="background:#FAEB86;" | '''''[[Dil (1990 film)|Dil]]'''''
+|-
+| {{sort|Hema|[[Hema Malini]]}}
+| {{sort|Taku|Taku}}
+| ''[[Rihaee (film)|Rihaee]]''
+|-
+| {{sort|Juhi|[[Juhi Chawla]]}}
+| {{sort|Shanti|Shanti}}
+| ''[[Pratibandh]]''
+|-
+| {{sort|Meenakshi|[[Meenakshi Seshadri]]}}
+| {{sort|Meena|Meena S. Verma}}
+| ''[[Jurm (1990 film)|Jurm]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 1992 <br /><small>[[37th Filmfare Awards|(37th)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Sridevi.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Sridevi|[[Sridevi]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Pallavi|Pallavi / Pooja Bhatnagar}}'''
+| style="background:#FAEB86;" | '''''[[Lamhe]]'''''
+|-
+| {{sort|Dimple|[[Dimple Kapadia]]}}
+| {{sort|Reva|Reva}}
+| ''[[Lekin...]]''
+|-
+| {{sort|Madhuri|[[Madhuri Dixit]]}}
+| {{sort|Pooja|Pooja Saxena}}
+| ''[[Saajan]]''
+|-
+| {{sort|Rekha|[[Rekha]]}}
+| {{sort|Namrata|Namrata Singh}}
+| ''[[Phool Bane Angaray]]''
+|-
+| {{sort|Zeba|[[Zeba Bakhtiar]]}}
+| {{sort|Henna|Henna}}
+| ''[[Henna (film)|Henna]]''
+|-
+! scope="row" rowspan=3 style="text-align:center" | 1993 <br /><small>[[38th Filmfare Awards|(38th)]] </small>
+|rowspan=3 style="text-align:center"|{{border| [[File:Madhuri Dixit promoting Total Dhamaal in 2019 (cropped).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Madhuri|[[Madhuri Dixit]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Saraswati|Saraswati}}'''
+| style="background:#FAEB86;" | '''''[[Beta (film)|Beta]]'''''
+|-
+| {{sort|Juhi|[[Juhi Chawla]]}}
+| {{sort|Radha|Radha / Rita}}
+| ''[[Bol Radha Bol]]''
+|-
+| {{sort|Sridevi|[[Sridevi]]}}
+| {{sort|Benazir|Benazir / Mehndi}}
+| ''[[Khuda Gawah]]''
+|-
+! rowspan="6" scope="row" style="text-align:center" | 1994 <br /><small>[[39th Filmfare Awards|(39th)]] </small>
+|rowspan=6 style="text-align:center"|{{border| [[File:Juhi Chawla still4.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Juhi|[[Juhi Chawla]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Vaijanti|Vaijanti Iyer}}'''
+| style="background:#FAEB86;" | '''''[[Hum Hain Rahi Pyar Ke]]'''''
+|-
+| {{sort|Dimple|[[Dimple Kapadia]]}}
+| {{sort|Shanichari|Shanichari}}
+| ''[[Rudaali]]''
+|-
+| {{sort|Juhi|[[Juhi Chawla]]}}
+| {{sort|Kiran|Kiran Awasthi Malhotra}}
+| ''[[Darr]]''
+|-
+| {{sort|Madhuri|[[Madhuri Dixit]]}}
+| {{sort|Gangotri|Gangotri "Ganga" Singh}}
+| ''[[Khalnayak]]''
+|-
+| {{sort|Meenakshi|[[Meenakshi Seshadri]]}}
+| {{sort|Damini|Damini Gupta}}
+| ''[[Damini]]''
+|-
+| {{sort|Sridevi|[[Sridevi]]}}
+| {{sort|Roshni|Roshni Chadha}}
+| ''[[Gumrah (1993 film)|Gumrah]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 1995 <br /><small>[[40th Filmfare Awards|(40th)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Madhuri Dixit promoting Total Dhamaal in 2019 (cropped).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Madhuri|[[Madhuri Dixit]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Nisha|Nisha Chaudhary}}'''
+| style="background:#FAEB86;" | '''''[[Hum Aapke Hain Koun..!]]'''''
+|-
+| {{sort|Kajol|[[Kajol]]}}
+| {{sort|Sapna|Sapna Banerjee}}
+| ''[[Yeh Dillagi]]''
+|-
+| {{sort|Madhuri|[[Madhuri Dixit]]}}
+| {{sort|Shivani|Shivani Chopra}}
+| ''[[Anjaam]]''
+|-
+| {{sort|Manisha|[[Manisha Koirala]]}}
+| {{sort|Rajeshwari|Rajeshwari "Rajjo" Pathak}}
+| ''[[1942: A Love Story]]''
+|-
+| {{sort|Sridevi|[[Sridevi]]}}
+| {{sort|Sheetal|Sheetal Jaitley}}
+| ''[[Laadla (1994 film)|Laadla]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 1996 <br /><small>[[41st Filmfare Awards|(41st)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Kajol Vogue cropped.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Kajol|[[Kajol]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Simran|Simran Singh}}'''
+| style="background:#FAEB86;" | '''''[[Dilwale Dulhania Le Jayenge]]'''''
+|-
+|rowspan=2| {{sort|Madhuri|[[Madhuri Dixit]]}}
+| {{sort|Madhu|Madhu Garewal}}
+| ''[[Raja (1995 film)|Raja]]''
+|-
+| {{sort|Lalita|Lalita}}
+| ''[[Yaarana (1995 film)|Yaarana]]''
+|-
+| {{sort|Manisha|[[Manisha Koirala]]}}
+| {{sort|Kiran|Kiran Kumar}}
+| ''[[Akele Hum Akele Tum]]''
+|-
+| {{sort|Urmila|[[Urmila Matondkar]]}}
+| {{sort|Mili|Mili Joshi}}
+| ''[[Rangeela (1995 film)|Rangeela]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 1997 <br /><small>[[42nd Filmfare Awards|(42nd)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:KarismaKapoor14.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Karisma|[[Karisma Kapoor]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Aarti|Aarti Sehgal}}'''
+| style="background:#FAEB86;" | '''''[[Raja Hindustani]]'''''
+|-
+| {{sort|Juhi|[[Juhi Chawla]]}}
+| {{sort|Priya|Priya Bhatia}}
+| ''[[Daraar]]''
+|-
+| {{sort|Manisha|[[Manisha Koirala]]}}
+| {{sort|Annie|Annie J. Braganza}}
+| ''[[Khamoshi: The Musical]]''
+|-
+| {{sort|Seema|[[Seema Biswas]]}}
+| {{sort|Phoolan|[[Phoolan Devi]]}}
+| ''[[Bandit Queen]]''
+|-
+| {{sort|Tabu|[[Tabu (actress)|Tabu]]}}
+| {{sort|Veeru|Virender "Veeru" Kaur}}
+| ''[[Maachis]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 1998 <br /><small>[[43rd Filmfare Awards|(43rd)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Madhuri Dixit promoting Total Dhamaal in 2019 (cropped).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Madhuri|[[Madhuri Dixit]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Pooja|Pooja}}'''
+| style="background:#FAEB86;" | '''''[[Dil Toh Pagal Hai]]'''''
+|-
+| {{sort|Juhi|[[Juhi Chawla]]}}
+| {{sort|Seema|Seema Kapoor}}
+| ''[[Yes Boss (film)|Yes Boss]]''
+|-
+| {{sort|Mahima|[[Mahima Chaudhry]]}}
+| {{sort|Kusum Ganga|Kusum Ganga}}
+| ''[[Pardes (1997 film)|Pardes]]''
+|-
+| {{sort|Sridevi|[[Sridevi]]}}
+| {{sort|Kaajal|Kaajal Verma}}
+| ''[[Judaai (1997 film)|Judaai]]''
+|-
+| {{sort|Tabu|[[Tabu (actress)|Tabu]]}}
+| {{sort|Gehna|Gehna}}
+| ''[[Virasat (1997 film)|Virasat]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 1999 <br /><small>[[44th Filmfare Awards|(44th)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Kajol Vogue cropped.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Kajol|[[Kajol]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Anjali|Anjali Sharma}}'''
+| style="background:#FAEB86;" | '''''[[Kuch Kuch Hota Hai]]'''''
+|-
+| rowspan=2|{{sort|Kajol|[[Kajol]]}}
+| {{sort|Sonia|Sonia / Naina Saigal}}
+| ''[[Dushman (1998 film)|Dushman]]''
+|-
+| {{sort|Sanjana|Sanjana}}
+| ''[[Pyaar To Hona Hi Tha]]''
+|-
+| {{sort|Manisha|[[Manisha Koirala]]}}
+| {{sort|Mona|Moina alias Meghna}}
+| ''[[Dil Se...]]''
+|-
+| {{sort|Urmila|[[Urmila Matondkar]]}}
+| {{sort|Vidya|Vidya}}
+| ''[[Satya (1998 film)|Satya]]''
+|}
+
+===2000s===
+
+{| class="wikitable sortable" rowspan=2 style="text-align: left;" border="2" cellpadding="5"
+|-
+!scope="col" style="width:3%; text-align:center;"| Year
+!scope="col" style="width:3%;text-align:center;"| Photos of winners
+!scope="col" style="width:15%;text-align:center;"| Actress
+!scope="col" style="width:15%;text-align:center;"| Role(s)
+!scope="col" style="width:15%;text-align:center;"| Film
+|-
+! scope="row" rowspan=5 style="text-align:center" | 2000 <br /><small>[[45th Filmfare Awards|(45th)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Aishwarya_Rai_Cannes_2017.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Aishwarya|[[Aishwarya Rai]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Nandini|Nandini Darbar}}'''
+| style="background:#FAEB86;" | '''''[[Hum Dil De Chuke Sanam]]'''''
+|-
+| {{sort|Aishwarya|[[Aishwarya Rai]]}}
+| {{sort|Mansi|Mansi Shankar}}
+| ''[[Taal (film)|Taal]]''
+|-
+| {{sort|Kajol|[[Kajol]]}}
+| {{sort|Megha|Megha}}
+| ''[[Hum Aapke Dil Mein Rehte Hain]]''
+|-
+| {{sort|Karisma|[[Karisma Kapoor]]}}
+| {{sort|Pooja|Pooja Mehra}}
+| ''[[Biwi No.1]]''
+|-
+| {{sort|Tabu|[[Tabu (actress)|Tabu]]}}
+| {{sort|Panna|Panna Barve}}
+| ''[[Hu Tu Tu]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 2001 <br /><small>[[46th Filmfare Awards|(46th)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:KarismaKapoor14.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Karisma|[[Karisma Kapoor]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Fiza|Fiza Ikramullah}}'''
+| style="background:#FAEB86;" | '''''[[Fiza]]'''''
+|-
+| {{sort|Aishwarya|[[Aishwarya Rai]]}}
+| {{sort|Preeti|Preeti Vyas}}
+| ''[[Hamara Dil Aapke Paas Hai]]''
+|-
+| {{sort|Madhuri|[[Madhuri Dixit]]}}
+| {{sort|Anjali|Anjali}}
+| ''[[Pukar (2000 film)|Pukar]]''
+|-
+| {{sort|Preity|[[Preity Zinta]]}}
+| {{sort|Priya|Priya Bakshi}}
+| ''[[Kya Kehna]]''
+|-
+| {{sort|Tabu|[[Tabu (actress)|Tabu]]}}
+| {{sort|Aditi|Aditi Pandit}}
+| ''[[Astitva]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 2002 <br /><small>[[47th Filmfare Awards|(47th)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Kajol Vogue cropped.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Kajol|[[Kajol]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Anjali|Anjali Sharma Raichand}}'''
+| style="background:#FAEB86;" | '''''[[Kabhi Khushi Kabhie Gham...]]'''''
+|-
+| {{sort|Ameesha|[[Ameesha Patel]]}}
+| {{sort|Sakeena|Sakeena Ali Singh}}
+| ''[[Gadar: Ek Prem Katha]]''
+|-
+| {{sort|Kareena|[[Kareena Kapoor]]}}
+| {{sort|Kaurwaki|[[Kaurwaki]]}}
+| ''[[Asoka (2001 film)|Asoka]]''
+|-
+| {{sort|Karisma|[[Karisma Kapoor]]}}
+| {{sort|Zubeidaa|Zubeidaa}}
+| ''[[Zubeidaa]]''
+|-
+| {{sort|Tabu|[[Tabu (actress)|Tabu]]}}
+| {{sort|Mumtaz|Mumtaz Ali Ansari}}
+| ''[[Chandni Bar]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 2003 <br /><small>[[48th Filmfare Awards|(48th)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Aishwarya_Rai_Cannes_2017.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Aishwarya|[[Aishwarya Rai]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Paro|Parvati 'Paro' Chakraborty}}'''
+| style="background:#FAEB86;" | '''''[[Devdas (2002 Hindi film)|Devdas]]'''''
+|-
+| {{sort|Ameesha|[[Ameesha Patel]]}}
+| {{sort|Priya|Priya Singhania}}
+| ''[[Humraaz]]''
+|-
+| {{sort|Bipasha|[[Bipasha Basu]]}}
+| {{sort|Sanjana|Sanjana Aditya Dhanraj}}
+| ''[[Raaz (2002 film)|Raaz]]''
+|-
+| {{sort|Karisma|[[Karisma Kapoor]]}}
+| {{sort|Nandini|Nandini}}
+| ''[[Shakti: The Power]]''
+|-
+| {{sort|Rani|[[Rani Mukerji]]}}
+| {{sort|Suhani|Suhani Sharma}}
+| ''[[Saathiya (film)|Saathiya]]''
+|-
+! scope="row" rowspan=6 style="text-align:center" | 2004 <br /><small>[[49th Filmfare Awards|(49th)]] </small>
+|rowspan=6 style="text-align:center"|{{border|[[File:PreityZintaa.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Preity|[[Preity Zinta]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Naina|Naina Catherine Kapur}}'''
+| style="background:#FAEB86;" | '''''[[Kal Ho Naa Ho]]'''''
+|-
+| {{sort|Bhumika|[[Bhumika Chawla]]}}
+| {{sort|Nirjara|Nirjara Bhardwaj}}
+| ''[[Tere Naam]]''
+|-
+| {{sort|Hema|[[Hema Malini]]}}
+| {{sort|Pooja|Pooja Malhotra}}
+| ''[[Baghban (2003 film)|Baghban]]''
+|-
+| {{sort|Preity|[[Preity Zinta]]}}
+| {{sort|Nisha|Nisha Mehra}}
+| ''[[Koi... Mil Gaya]]''
+|-
+| {{sort|Rani|[[Rani Mukerji]]}}
+| {{sort|Priya|Priya Chopra}}
+| ''[[Chalte Chalte (2003 film)|Chalte Chalte]]''
+|-
+| {{sort|Urmila|[[Urmila Matondkar]]}}
+| {{sort|Swati|Swati}}
+| ''[[Bhoot (film)|Bhoot]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 2005 <br /><small>[[50th Filmfare Awards|(50th)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Rani.Mukerji.jpg|105px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Rani|[[Rani Mukerji]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Rhea|Rhea Prakash}}'''
+| style="background:#FAEB86;" | '''''[[Hum Tum]]'''''
+|-
+| {{sort|Aishwarya|[[Aishwarya Rai]]}}
+| {{sort|Neerja|Neerja 'Neeru'}}
+| ''[[Raincoat (film)|Raincoat]]''
+|-
+| {{sort|Preity|[[Preity Zinta]]}}
+| {{sort|Zaara|Zaara Hayat Khan}}
+| ''[[Veer-Zaara]]''
+|-
+| {{sort|Shilpa|[[Shilpa Shetty]]}}
+| {{sort|Tamanna|Tamanna Sahni}}
+| ''[[Phir Milenge (2004 film)|Phir Milenge]]''
+|-
+| {{sort|Urmila|[[Urmila Matondkar]]}}
+| {{sort|Sarika|Sarika Vartak}}
+| ''[[Ek Hasina Thi (film)|Ek Hasina Thi]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 2006 <br /><small>[[51st Filmfare Awards|(51st)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Rani.Mukerji.jpg|105px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Rani|[[Rani Mukerji]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Michelle|Michelle McNally}}'''
+| style="background:#FAEB86;" | '''''[[Black (2005 film)|Black]]'''''
+|-
+| {{sort|Preity|[[Preity Zinta]]}}
+| {{sort|Ambar|Ambar 'Amby' Malhotra}}
+| ''[[Salaam Namaste]]''
+|-
+| {{sort|Rani|[[Rani Mukerji]]}}
+| {{sort|Vimmi|Vimmi 'Babli' Saluja}}
+| ''[[Bunty Aur Babli]]''
+|-
+| {{sort|Sharmila|[[Sharmila Tagore]]}}
+| {{sort|Sumitra|Sumitra V. Patwardhan}}
+| ''[[Viruddh... Family Comes First]]''
+|-
+| {{sort|Vidya|[[Vidya Balan]]}}
+| {{sort|Lalita|Lalita}}
+| ''[[Parineeta (2005 film)|Parineeta]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 2007 <br /><small>[[52nd Filmfare Awards|(52nd)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Kajol Vogue cropped.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Kajol|[[Kajol]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Zooni|Zooni Ali Beg}}'''
+| style="background:#FAEB86;" | '''''[[Fanaa (2006 film)|Fanaa]]'''''
+|-
+| {{sort|Aishwarya|[[Aishwarya Rai]]}}
+| {{sort|Sunehri|Sunehri}}
+| ''[[Dhoom 2]]''
+|-
+| {{sort|Bipasha|[[Bipasha Basu]]}}
+| {{sort|Nishi|Nishiganda 'Nishi' Dasgupta}}
+| ''[[Corporate (2006 film)|Corporate]]''
+|-
+| {{sort|Kareena|[[Kareena Kapoor]]}}
+| {{sort|Dolly|Dolly Mishra}}
+| ''[[Omkara (2006 film)|Omkara]]''
+|-
+| {{sort|Rani|[[Rani Mukerji]]}}
+| {{sort|Maya|Maya Talwar}}
+| ''[[Kabhi Alvida Naa Kehna]]''
+|-
+! scope="row" rowspan=6 style="text-align:center" | 2008 <br /><small>[[53rd Filmfare Awards|(53rd)]] </small>
+|rowspan=6 style="text-align:center"|{{border| [[File:Kareena Kapoor at TOIFA16.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Kareena|[[Kareena Kapoor]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Geet|Geet Dhillon}}'''
+| style="background:#FAEB86;" | '''''[[Jab We Met]]'''''
+|-
+| {{sort|Aishwarya|[[Aishwarya Rai]]}}
+| {{sort|Sujata|Sujata Desai}}
+| ''[[Guru (2007 film)|Guru]]''
+|-
+| {{sort|Deepika|[[Deepika Padukone]]}}
+| {{sort|Shanti|Shantipriya 'Shanti' Kashyap Mehra / Sandhya 'Sandy' Bansal}}
+| ''[[Om Shanti Om]]''
+|-
+| {{sort|Madhuri|[[Madhuri Dixit]]}}
+| {{sort|Dia|Dia Shrivastava}}
+| ''[[Aaja Nachle]]''
+|-
+| {{sort|Rani|[[Rani Mukerji]]}}
+| {{sort|Vibhavari|Vibhavari 'Badki' Sahay}}
+| ''[[Laaga Chunari Mein Daag]]''
+|-
+| {{sort|Vidya|[[Vidya Balan]]}}
+| {{sort|Avni|Avni Chatturvedi / Manjulika}}
+| ''[[Bhool Bhulaiyaa]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 2009 <br /><small>[[54th Filmfare Awards|(54th)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Priyanka Chopra at 2019 Cannes (cropped).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Priyanka|[[Priyanka Chopra]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Meghna|Meghna Mathur}}'''
+| style="background:#FAEB86;" | '''''[[Fashion (2008 film)|Fashion]]'''''
+|-
+| {{sort|Aishwarya|[[Aishwarya Rai]]}}
+| {{sort|Jodhaa|[[Mariam-uz-Zamani|Jodhaa Bai]]}}
+| ''[[Jodhaa Akbar]]''
+|-
+| {{sort|Anushka|[[Anushka Sharma]]}}
+| {{sort|Taani|Taani Surinder Sahni}}
+| ''[[Rab Ne Bana Di Jodi]]''
+|-
+| {{sort|Asin Thottumkal|[[Asin Thottumkal ]]}}
+| {{sort|Kalpana|Kalpana Shetty}}
+| ''[[Ghajini (2008 film)|Ghajini]]''
+|-
+| {{sort|Kajol|[[Kajol]]}}
+| {{sort|Piya|Piya Thapar Mehra}}
+| ''[[U Me Aur Hum]]''
+|}
+
+===2010s===
+
+{| class="wikitable sortable" rowspan=2 style="text-align: left;" border="2" cellpadding="5"
+|-
+!scope="col" style="width:3%; text-align:center;"| Year
+!scope="col" style="width:3%;text-align:center;"| Photos of winners
+!scope="col" style="width:15%;text-align:center;"| Actress
+!scope="col" style="width:15%;text-align:center;"| Role(s)
+!scope="col" style="width:15%;text-align:center;"| Film
+|-
+! scope="row" rowspan=6 style="text-align:center" | 2010 <br /><small>[[55th Filmfare Awards|(55th)]] </small>
+|rowspan=6 style="text-align:center"|{{border| [[File:Vidya Balan Screen Awards 2012 cropped.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Vidya|[[Vidya Balan]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Vidya|Dr. Vidya}}'''
+| style="background:#FAEB86;" | '''''[[Paa (film)|Paa]]'''''
+|-
+| {{sort|Deepika|[[Deepika Padukone]]}}
+| {{sort|Meera|Meera Pandit}}
+| ''[[Love Aaj Kal]]''
+|-
+| rowspan=2|{{sort|Kareena|[[Kareena Kapoor]]}}
+| {{sort|Pia|Pia Sahastrabuddhe}}
+| ''[[3 Idiots]]''
+|-
+| {{sort|Avantika|Avantika Ahuja Khan}}
+| ''[[Kurbaan (2009 film)|Kurbaan]]''
+|-
+| {{sort|Katrina|[[Katrina Kaif]]}}
+| {{sort|Maya|Maya Sheikh}}
+| ''[[New York (2009 film)|New York]]''
+|-
+| {{sort|Priyanka|[[Priyanka Chopra]]}}
+| {{sort|Sweety|Sweety Shekhar Bhope}}
+| ''[[Kaminey]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 2011 <br /><small>[[56th Filmfare Awards|(56th)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Kajol Vogue cropped.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Kajol|[[Kajol]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Mandira|Mandira Rathore Khan}}'''
+| style="background:#FAEB86;" | '''''[[My Name is Khan]]'''''
+|-
+| {{sort|Aishwarya|[[Aishwarya Rai]]}}
+| {{sort|Sofia|Sofia D'Souza}}
+| ''[[Guzaarish (2010 film)|Guzaarish]]''
+|-
+| {{sort|Anushka|[[Anushka Sharma]]}}
+| {{sort|Shruti|Shruti Kakkar}}
+| ''[[Band Baaja Baaraat]]''
+|-
+| {{sort|Kareena|[[Kareena Kapoor]]}}
+| {{sort|Daboo|Daboo}}
+| ''[[Golmaal 3]]''
+|-
+| {{sort|Vidya|[[Vidya Balan]]}}
+| {{sort|Krishna|Krishna Verma}}
+| ''[[Ishqiya]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 2012 <br /><small>[[57th Filmfare Awards|(57th)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Vidya Balan Screen Awards 2012 cropped.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Vidya|[[Vidya Balan]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Reshma|Reshma / Silk}}'''
+| style="background:#FAEB86;" | '''''[[The Dirty Picture]]'''''
+|-
+| {{sort|Mahi|[[Mahi Gill]]}}
+| {{sort|Madhavi|Madhavi Devi}}
+| ''[[Saheb, Biwi Aur Gangster]]''
+|-
+| {{sort|Katrina|[[Katrina Kaif]]}}
+| {{sort|Dimple|Dimple Dixit}}
+| ''[[Mere Brother Ki Dulhan]]''
+|-
+| {{sort|Priyanka|[[Priyanka Chopra]]}}
+| {{sort|Susanna|Susanna Anna-Marie Johannes}}
+| ''[[7 Khoon Maaf]]''
+|-
+| {{sort|Vidya|[[Vidya Balan]]}}
+| {{sort|Sabrina|Sabrina Lal}}
+| ''[[No One Killed Jessica]]''
+|-
+! scope="row" rowspan=6 style="text-align:center" | 2013 <br /><small>[[58th Filmfare Awards|(58th)]] </small>
+|rowspan=6 style="text-align:center"|{{border| [[File:Vidya Balan Screen Awards 2012 cropped.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Vidya|[[Vidya Balan]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Vidya|Vidya Venkatesan Bagchi}}'''
+| style="background:#FAEB86;" | '''''[[Kahaani]]'''''
+|-
+| {{sort|Deepika|[[Deepika Padukone]]}}
+| {{sort|Veronica|Veronica Malaney}}
+| ''[[Cocktail (2012 film)|Cocktail]]''
+|-
+| {{sort|Kareena|[[Kareena Kapoor]]}}
+| {{sort|Mahi|Mahi Arora}}
+| ''[[Heroine (2012 film)|Heroine]]''
+|-
+| {{sort|Parineeti|[[Parineeti Chopra]]}}
+| {{sort|Zoya|Zoya Qureshi}}
+| ''[[Ishaqzaade]]''
+|-
+| {{sort|Priyanka|[[Priyanka Chopra]]}}
+| {{sort|Jhilmil|Jhilmil Chatterjee}}
+| ''[[Barfi!]]''
+|-
+| {{sort|Sridevi|[[Sridevi]]}}
+| {{sort|Shashi|Shashi Godbole}}
+| ''[[English Vinglish]]''
+|-
+! scope="row" rowspan=6 style="text-align:center" | 2014 <br /><small>[[59th Filmfare Awards|(59th)]] </small>
+|rowspan=6 style="text-align:center"|{{border| [[File:Deepika Padukone walks the ramp at PCJ Delhi Couture Week.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Deepika|[[Deepika Padukone]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Leela|Leela Sanera}}'''
+| style="background:#FAEB86;" | '''''[[Goliyon Ki Raasleela Ram-Leela]]'''''
+|-
+| rowspan=1|{{sort|Deepika|[[Deepika Padukone]]}}
+| {{sort|Meena|Meenalochni 'Meenamma' Azhagusundaram}}
+| ''[[Chennai Express]]''
+|-
+| {{sort|Parineeti|[[Parineeti Chopra]]}}
+| {{sort|Gayetri|Gayatri}}
+| ''[[Shuddh Desi Romance]]''
+|-
+| {{sort|Shraddha|[[Shraddha Kapoor]]}}
+| {{sort|Aarohi|Aarohi Keshav Shirke}}
+| ''[[Aashiqui 2]]''
+|-
+| {{sort|Sonakshi|[[Sonakshi Sinha]]}}
+| {{sort|Pakhi|Pakhi Roy Chaudhary}}
+| ''[[Lootera]]''
+|-
+| {{sort|Sonam|[[Sonam Kapoor]]}}
+| {{sort|Zoya|Zoya Haider}}
+| ''[[Raanjhanaa]]''
+|-
+! scope="row" rowspan=6 style="text-align:center" | 2015 <br /><small>[[60th Filmfare Awards|(60th)]] </small>
+|rowspan=6 style="text-align:center"|{{border| [[File:Kangana Ranaut at 2019 Cannes (cropped).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Kangana|[[Kangana Ranaut]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Rani|Rani Mehra}}'''
+| style="background:#FAEB86;" | '''''[[Queen (2014 film)|Queen]]'''''
+|-
+| {{sort|Alia|[[Alia Bhatt]]}}
+| {{sort|Veera|Veera Tripathi}}
+| ''[[Highway (2014 Hindi film)|Highway]]''
+|-
+| {{sort|Madhuri|[[Madhuri Dixit]]}}
+| {{sort|Begum|Begum Para}}
+| ''[[Dedh Ishqiya]]''
+|-
+| {{sort|Priyanka|[[Priyanka Chopra]]}}
+| {{sort|Mary|[[Mary Kom]]}}
+| ''[[Mary Kom (film)|Mary Kom]]''
+|-
+| {{sort|Rani|[[Rani Mukerji]]}}
+| {{sort|Shivani|Shivani Shivaji Roy}}
+| ''[[Mardaani]]''
+|-
+| {{sort|Sonam|[[Sonam Kapoor]]}}
+| {{sort|Milli|Dr. Mrinalini 'Mili' Chakravarty}}
+| ''[[Khoobsurat (2014 film)|Khoobsurat]]''
+|-
+! scope="row" rowspan=6 style="text-align:center" | 2016 <br /><small>[[61st Filmfare Awards|(61st)]] </small>
+|rowspan=6 style="text-align:center"|{{border| [[File:Deepika Padukone walks the ramp at PCJ Delhi Couture Week.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Deepika|[[Deepika Padukone]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Piku|Piku Banerjee}}'''
+| style="background:#FAEB86;" | '''''[[Piku]]'''''
+|-
+| {{sort|Anushka|[[Anushka Sharma]]}}
+| {{sort|Meera|Meera}}
+| ''[[NH10 (film)|NH10]]''
+|-
+| {{sort|Deepika|[[Deepika Padukone]]}}
+| {{sort|Mastani|Mastani}}
+| ''[[Bajirao Mastani]]''
+|-
+| {{sort|Kajol|[[Kajol]]}}
+| {{sort|Meera|Meera Dev Malik}}
+| ''[[Dilwale (2015 film)|Dilwale]]''
+|-
+| {{sort|Kangana|[[Kangana Ranaut]]}}
+| {{sort|Tanu|Tanuja 'Tanu' Trivedi / Kumari 'Kusum' Sangwan (Datto)}}
+| ''[[Tanu Weds Manu Returns]]''
+|-
+| {{sort|Sonam|[[Sonam Kapoor]]}}
+| {{sort|Dolly|Dolly / Madhuri / Priya / Bhagyashree}}
+| ''[[Dolly Ki Doli]]''
+|-
+! scope="row" rowspan=6 style="text-align:center" | 2017 <br /><small>[[62nd Filmfare Awards|(62nd)]] </small>
+|rowspan=6 style="text-align:center"|{{border| [[File:Alia Bhatt promoting Badrinath Ki Dulhania.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Alia|[[Alia Bhatt]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Bauria|Bauria (Mary Jane)}}'''
+| style="background:#FAEB86;" | '''''[[Udta Punjab]]'''''
+|-
+| {{sort|Aishwarya|[[Aishwarya Rai]]}}
+| {{sort|Dalbir|Dalbir Kaur}}
+| ''[[Sarbjit (film)|Sarbjit]]''
+|-
+| {{sort|Alia|[[Alia Bhatt]]}}
+| {{sort|Kaira|Kaira}}
+| ''[[Dear Zindagi]]''
+|-
+| {{sort|Anushka|[[Anushka Sharma]]}}
+| {{sort|Alizeh|Alizeh Khan}}
+| ''[[Ae Dil Hai Mushkil]]''
+|-
+| {{sort|Sonam|[[Sonam Kapoor]]}}
+| {{sort|Neerja|[[Neerja Bhanot]]}}
+| ''[[Neerja]]''
+|-
+| {{sort|Vidya|[[Vidya Balan]]}}
+| {{sort|Vidya|Vidya Sinha / Durga Rani Singh}}
+| ''[[Kahaani 2]]''
+|-
+! scope="row" rowspan=6 style="text-align:center" | 2018 <br /><small>[[63rd Filmfare Awards|(63rd)]] </small>
+|rowspan=6 style="text-align:center"|{{border| [[File:Vidya Balan Screen Awards 2012 cropped.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Vidya|[[Vidya Balan]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Sulochana|Sulochana 'Sulu' Dubey}}'''
+| style="background:#FAEB86;" | '''''[[Tumhari Sulu]]'''''
+|-
+| {{sort|Alia|[[Alia Bhatt]]}}
+| {{sort|Vaidehi|Vaidehi Trivedi}}
+| ''[[Badrinath Ki Dulhania]]''
+|-
+| {{sort|Bhumi|[[Bhumi Pednekar]]}}
+| {{sort|Sugandha|Sugandha Joshi Sharma}}
+| ''[[Shubh Mangal Saavdhan]]''
+|-
+| {{sort|Saba|[[Saba Qamar]]}}
+| {{sort|Meeta|Meeta Batra}}
+| ''[[Hindi Medium]]''
+|-
+| {{sort|Sridevi|[[Sridevi]]}}
+| {{sort|Devaki|Devki Sabarwal}}
+| ''[[Mom (film)|Mom]]''
+|-
+| {{sort|Zaira|[[Zaira Wasim]]}}
+| {{sort|Insia|Insia Malik}}
+| ''[[Secret Superstar]]''
+|-
+! scope="row" rowspan=5 style="text-align:center" | 2019 <br /><small>[[64th Filmfare Awards|(64th)]] </small>
+|rowspan=5 style="text-align:center"|{{border| [[File:Alia Bhatt promoting Badrinath Ki Dulhania.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Alia|[[Alia Bhatt]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Sehmat|Sehmat Khan}}'''
+| style="background:#FAEB86;" | '''''[[Raazi]]'''''
+|-
+| {{sort|Deepika|[[Deepika Padukone]]}}
+| {{sort|Padmavati|Rani Padmavati}}
+| ''[[Padmaavat]]''
+|-
+| {{sort|Neena|[[Neena Gupta]]}}
+| {{sort|Priyamvada|Priyamvada 'Babli' Kaushik}}
+| ''[[Badhaai Ho]]''
+|-
+| {{sort|Rani|[[Rani Mukerji]]}}
+| {{sort|Naina|Naina Mathur}}
+| ''[[Hichki]]''
+|-
+| {{sort|Tabu|[[Tabu_(actress)|Tabu]]}}
+| {{sort|Simi|Simi}}
+| ''[[Andhadhun]]''
+|}
+
+===2020s===
+
+{| class="wikitable sortable" rowspan=2 style="text-align: left;" border="2" cellpadding="5"
+|-
+!scope="col" style="width:3%; text-align:center;"| Year
+!scope="col" style="width:3%;text-align:center;"| Photos of winners
+!scope="col" style="width:15%;text-align:center;"| Actress
+!scope="col" style="width:15%;text-align:center;"| Role(s)
+!scope="col" style="width:15%;text-align:center;"| Film
+|-
+! scope="row" rowspan=6 style="text-align:center" | 2020 <br /><small>([[65th Filmfare Awards|65th]]) </small>
+|rowspan=6 style="text-align:center"|{{border| [[File:Alia Bhatt promoting Badrinath Ki Dulhania.jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Alia Bhatt}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Sageena|Safeena Firdausi}}'''
+| style="background:#FAEB86;" | '''''[[Gully Boy]]'''''
+|-
+| [[Kangana Ranaut]]
+| [[Rani of Jhansi|Rani Lakshmibai]]
+| ''[[Manikarnika: The Queen of Jhansi]]''
+|-
+| [[Kareena Kapoor]] 
+| Deepti "Deepu" Batra
+| ''[[Good Newwz]]''
+|-
+| [[Priyanka Chopra]]
+| Aditi Chaudhary
+| ''[[The Sky Is Pink]]''
+|-
+| [[Rani Mukerji]]
+| Shivani Shivaji Roy
+| ''[[Mardaani 2]]''
+|-
+| [[Vidya Balan]]
+| Tara Shinde
+| ''[[Mission Mangal]]''
+|-
+! rowspan="5" scope="row" style="text-align:center" | 2021 <br /><small>([[66th Filmfare Awards|66th]]) </small>
+| rowspan="5" style="text-align:center" |{{border| [[File:Taapsee-Pannu-Celebs-grace-the-HT-Style-Awards-2018-52 (cropped).jpg|95px]]|width=2px|style=solid |color=gold}}
+| style="background:#FAEB86;" |'''{{sort|Taapsee|[[Taapsee Pannu]]}}''' {{double dagger|alt=Award winner}}
+| style="background:#FAEB86;" | '''{{sort|Amrita|Amrita Sabharwal}}'''
+| style="background:#FAEB86;" | '''''[[Thappad]]'''''
+|-
+| [[Deepika Padukone]] 
+| Malti
+| ''[[Chhapaak]]''
+|-
+| [[Janhvi Kapoor]]
+| [[Gunjan Saxena]]
+| ''[[Gunjan Saxena: The Kargil Girl]]''
+|-
+| [[Kangana Ranaut]]
+| Jaya Nigam
+| ''[[Panga (film)|Panga]]''
+|-
+| [[Vidya Balan]]
+| [[Shakuntala Devi]]
+| ''[[Shakuntala Devi (film)|Shakuntala Devi]]''
+|-
+|}
